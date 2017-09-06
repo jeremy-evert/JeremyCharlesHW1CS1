@@ -95,4 +95,9 @@ Author: JeremyEvert <jeremy.evert@swosu.edu>
 Date:   Wed Sep 6 12:28:09 2017 -0500
 
     first commit
+
 ```
+
+## Part 4 Item 4: A discussion of what you want to get out of this class.
+
+I hope to be a better person.
