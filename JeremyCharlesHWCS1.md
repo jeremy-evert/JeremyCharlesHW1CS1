@@ -22,3 +22,15 @@ Date:   Wed Sep 6 12:28:09 2017 -0500
 
     first commit
 ```
+
+## Item 2: Your second story, when you learned to use branches. 
+I want you to submit your story, as well as your git log.
+
+## And Item 3: Your third story, when you worked with a partner. 
+I want you to submit your story, as well as your git log.
+
+### Jeremy Story
+
+### Charles Story
+
+### Git Log
