@@ -35,4 +35,6 @@ Still Wednesday which feels like Monday...
 
 ### Charles Story
 
+And that is the story of the man who can't jump with his eyes closed...
+
 ### Git Log
