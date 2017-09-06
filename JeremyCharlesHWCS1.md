@@ -33,4 +33,6 @@ I want you to submit your story, as well as your git log.
 
 ### Charles Story
 
+And that is the story of the man who can't jump with his eyes closed...
+
 ### Git Log
