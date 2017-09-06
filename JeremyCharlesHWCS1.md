@@ -31,6 +31,8 @@ I want you to submit your story, as well as your git log.
 
 ### Jeremy Story
 
+Still Wednesday which feels like Monday...
+
 ### Charles Story
 
 ### Git Log
